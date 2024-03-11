@@ -32,17 +32,17 @@ const HomePage = () => {
             <table style={styles.table}>
                 <thead>
                     <tr>
-                        <th style={styles.th}>Sarah Elmahdy</th>
+                        <th style={styles.th}>Name</th>
                         <th style={styles.th}>Role</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td style={styles.td}>A B</td>
+                        <td style={styles.td}>Sarah Elmahdy/td>
                         <td style={styles.td}>Developer</td>
                     </tr>
                     <tr>
-                        <td style={styles.td}>C D</td>
+                        <td style={styles.td}>Suprova Hoque</td>
                         <td style={styles.td}>Designer</td>
                     </tr>
                 </tbody>
